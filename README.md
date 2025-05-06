@@ -15,5 +15,8 @@ Responsive design for all devices
 Smooth navigation and interaction
 
 Live Demo:
-
-👉 Check it here!
+<div class="demo-link">
+    <a href="https://tyebzx0.github.io/Telegraph/" class="demo-button" target="_blank">
+        👉 Check it here!
+    </a>
+</div>
